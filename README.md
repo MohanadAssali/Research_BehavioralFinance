@@ -1,5 +1,5 @@
 ### Note
-The following Research papers are based on original findings from five years of market observation and the manual categorization of over 1,000 macroeconomic events. While I utilize Quantitative Finance models like GARCH and Monte Carlo simulations for statistical verification, I do not view historical data as a predictive tool. In accordance with the Lucas Critique (1976), I argue that predicting the future solely on past data is flawed; instead, I prioritize qualitative methods and manual event classification to more accurately reflect the complex, adaptive nature of market regimes.
+This research is based on my own observations of financial markets over the past five years, along with the manual classification of more than 1,000 macroeconomic news events. While I incorporate quantitative tools such as GARCH models and Monte Carlo simulations to support parts of the analysis, I do not rely on historical data as a primary forecasting method. Drawing on the idea behind the Lucas Critique (1976), I believe that market behavior changes as conditions evolve, which limits the usefulness of purely data-driven predictions. Instead, this study places greater emphasis on qualitative analysis and contextual interpretation, aiming to better capture the dynamic and adaptive nature of financial markets.
 
 ---
 
