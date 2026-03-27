@@ -6,3 +6,5 @@ This research paper delves into the dual-interpretation nature of some news even
 My findings suggest that purely quantitative models often fail during these regime shifts because they lack situational awareness. To solve this, I propose a "Dynamic Execution" framework—a hybrid approach that blends context-heavy programming with discretionary human oversight.  Ultimately, the data shows that in today’s markets, the context surrounding a headline is just as vital for valuation as the news itself.
 
 
+**Quant Models Used:**
+VAR, GARCH
